@@ -4,11 +4,16 @@ Fokus é uma aplicação web simples e eficaz projetada para ajudar você a mant
 A técnica Pomodoro divide o trabalho em intervalos de tempo, com períodos de foco intenso intercalados com curtos intervalos de descanso. Fokus facilita a aplicação dessa técnica, permitindo que você:
 
 • Defina a duração dos períodos de trabalho (pomodoros) e dos intervalos de descanso.
+
 • Inicie, pause e reinicie o temporizador facilmente.
+
 • Visualize o tempo restante de forma clara e intuitiva.
+
 • Receba notificações quando os pomodoros e intervalos de descanso forem concluídos.
 
 ## Tecnologias usadas 
 <img align="center" alt="Mikael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="Mikael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Mikael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 ## Tela Inicial do Projeto
+<img src= "Imagem fokus readme .png">
+
