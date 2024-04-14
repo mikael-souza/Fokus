@@ -17,3 +17,9 @@ A técnica Pomodoro divide o trabalho em intervalos de tempo, com períodos de f
 ## Tela Inicial do Projeto
 <img src= "Imagem fokus readme .png">
 
+## Link do Projeto 
+https://fokus-phi-pink.vercel.app/
+
+## Sinta-se à vontade
+Este projeto é de código aberto e está aberto a contribuições da comunidade. Sinta-se à vontade para enviar sugestões, relatar problemas ou enviar solicitações de pull requests para melhorar o Fokus.
+
